@@ -1,0 +1,22 @@
+Íßr
+
+lstm
+	meta_lstm
+,
+
+kernel
+recurrent_kernel
+bias
+
+cI
+lr
+B@
+VARIABLE_VALUEkernel&lstm/kernel/.ATTRIBUTES/VARIABLE_VALUE
+VT
+VARIABLE_VALUErecurrent_kernel0lstm/recurrent_kernel/.ATTRIBUTES/VARIABLE_VALUE
+><
+VARIABLE_VALUEbias$lstm/bias/.ATTRIBUTES/VARIABLE_VALUE
+IG
+VARIABLE_VALUEmeta_lstm/cI'meta_lstm/cI/.ATTRIBUTES/VARIABLE_VALUE
+IG
+VARIABLE_VALUEmeta_lstm/lr'meta_lstm/lr/.ATTRIBUTES/VARIABLE_VALUE
