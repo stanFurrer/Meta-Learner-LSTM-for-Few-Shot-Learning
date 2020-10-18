@@ -1,5 +1,8 @@
 ## Meta-Learner LSTM for few Shot Learning
 
+Ravi & Larochelle have addressed the weakness of neural networks trained with gradient-based optimization on the few-shot learning problem with an LSTM-based meta-learner.
+Our paper expands the performance analysis of their algorithm.
+
 TensorFlow implementation of [Optimization as a Model for Few-shot Learning](https://openreview.net/forum?id=rJY0-Kcll) together with extended experiments.
 
 ## Getting Started
