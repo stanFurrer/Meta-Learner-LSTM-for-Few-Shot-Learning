@@ -1,5 +1,10 @@
 ## Meta-Learner LSTM for few Shot Learning
 
+**Authors:** Stanislas Furrer & Yiğit Efe Erginbaş & Mert Kayaalp
+
+**Date :**  01.06.2020
+
+
 Ravi & Larochelle have addressed the weakness of neural networks trained with gradient-based optimization on the few-shot learning problem with an LSTM-based meta-learner.
 Our paper expands the performance analysis of their algorithm.
 
@@ -102,9 +107,3 @@ For testing a model trained with Omniglot data on miniImagenet data set:
 ```
 python main.py --mode test --seed 150 --ID 1 --hidden-size 1
 ```
-
-## Authors
-
-* **Stanislas Furrer** 
-* **Yiğit Efe Erginbaş** 
-* **Mert Kayaalp** 
