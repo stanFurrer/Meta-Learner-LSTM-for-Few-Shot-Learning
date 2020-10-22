@@ -5,7 +5,7 @@ Our paper expands the performance analysis of their algorithm.
 
 TensorFlow implementation of [Optimization as a Model for Few-shot Learning](https://openreview.net/forum?id=rJY0-Kcll) together with extended experiments.
 
-Our Paper : [Meta-Learner LSTM for few Shot Learning](https://www.overleaf.com/read/kjhbvsmbqwbj)
+Our Paper : [Meta-Learner LSTM for few Shot Learning](https://github.com/stanFurrer/Meta-Learner-LSTM-for-Few-Shot-Learning/blob/main/Paper.pdf)
 
 ## Getting Started
 
